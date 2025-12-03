@@ -1,0 +1,7 @@
+aiohttp
+requests
+discord.py
+dnspython
+psutil
+python-dotenv
+mcstatus
